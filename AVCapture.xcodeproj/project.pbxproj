@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F48BAD822D6E986004EFB82 /* CaptureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F48BAD622D6E986004EFB82 /* CaptureViewController.m */; };
 		8F6860C022CA082A0054EDA4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6860BF22CA082A0054EDA4 /* AppDelegate.m */; };
 		8F6860C322CA082A0054EDA4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F6860C222CA082A0054EDA4 /* ViewController.m */; };
 		8F6860C622CA082A0054EDA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F6860C422CA082A0054EDA4 /* Main.storyboard */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F48BAD622D6E986004EFB82 /* CaptureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CaptureViewController.m; sourceTree = "<group>"; };
+		8F48BAD722D6E986004EFB82 /* CaptureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CaptureViewController.h; sourceTree = "<group>"; };
 		8F6860BB22CA082A0054EDA4 /* AVCapture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVCapture.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F6860BE22CA082A0054EDA4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8F6860BF22CA082A0054EDA4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +114,8 @@
 				8F6860BF22CA082A0054EDA4 /* AppDelegate.m */,
 				8F6860C122CA082A0054EDA4 /* ViewController.h */,
 				8F6860C222CA082A0054EDA4 /* ViewController.m */,
+				8F48BAD722D6E986004EFB82 /* CaptureViewController.h */,
+				8F48BAD622D6E986004EFB82 /* CaptureViewController.m */,
 				8F68624122CB4A980054EDA4 /* VideoVapturer.h */,
 				8F68624222CB4A980054EDA4 /* VideoVapturer.m */,
 				8FBEF25822D32A52003BADD7 /* PrefixHeader.pch */,
@@ -276,6 +281,7 @@
 				8F6860C322CA082A0054EDA4 /* ViewController.m in Sources */,
 				8F6860CE22CA082C0054EDA4 /* main.m in Sources */,
 				8F68624322CB4A980054EDA4 /* VideoVapturer.m in Sources */,
+				8F48BAD822D6E986004EFB82 /* CaptureViewController.m in Sources */,
 				8F6860C022CA082A0054EDA4 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
